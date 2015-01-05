@@ -118,13 +118,13 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:014525_0000_0F92FC08D184C1A8"/>
-            <pb facs="tcp:014525_0001_0F92FC0925C772A0"/>
+            <pb facs="unknown:014525_0000_0F92FC08D184C1A8"/>
+            <pb facs="unknown:014525_0001_0F92FC0925C772A0"/>
             <p>AN ELEGY ON THE TIMES: FIRST PRINTED AT BOSTON, <hi>September</hi> 20<hi rend="sup">th</hi>, A. D. 1774.</p>
             <p>NEW-HAVEN: Re-printed by THOMAS and SAMUEL GREEN. 1775.</p>
          </div>
          <div type="to_the_public">
-            <pb facs="tcp:014525_0002_0F92FC099AA85740"/>
+            <pb facs="unknown:014525_0002_0F92FC099AA85740"/>
             <head>ADVERTISEMENT To the PUBLIC.</head>
             <p>
                <hi>THE following Elegy was first published in one of the Boston Gazettes, about the middle of last September. It was adapted to the circumstances of the times at that period, and calculated to promote that Spirit of Liberty, Industry and Oeconomy, recommended by the Grand Congress, then sitting at Philadel<g ref="char:EOLhyphen"/>phia. Notwithstanding some alte<g ref="char:EOLhyphen"/>rations in the state of our public af<g ref="char:EOLhyphen"/>fairs, by which the sentiments and advice in some parts of it are become superfluous, its general tenor, which no change in our fortune can render improper, and its poetical merit, made it worthy, in our opinion, of a second publication.</hi>
@@ -133,7 +133,7 @@
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:014525_0003_0F92FC0AC855E558"/>
+            <pb facs="unknown:014525_0003_0F92FC0AC855E558"/>
             <head>An ELEGY, &amp;c.</head>
             <lg>
                <l>OH BOSTON! late with ev'ry pleasure crown'd,</l>
@@ -172,7 +172,7 @@
                <l>And through thy streets the sons of rapine stray.</l>
             </lg>
             <lg>
-               <pb n="6" facs="tcp:014525_0004_0F92FC04AD2BC820"/>
+               <pb n="6" facs="unknown:014525_0004_0F92FC04AD2BC820"/>
                <l>Such the dread stillness of the desart night,</l>
                <l>When brooding horror settles on the groves;</l>
                <l>While pow'rs of darkness claim their hateful right,</l>
@@ -220,7 +220,7 @@
                <l>Will the deaf gods, that frown in molten gold,</l>
                <l>Bless the dup'd hand, that spreads the prostrate prayer?</l>
                <l>
-                  <pb n="7" facs="tcp:014525_0005_0F92FC0D07C13AC0"/>
+                  <pb n="7" facs="unknown:014525_0005_0F92FC0D07C13AC0"/>
 With what pleas'd hope before the face of Pride,</l>
                <l>We rear'd our suppliant eyes with filial awe;</l>
                <l>While loud Disdain with ruffian voice reply'd,</l>
@@ -268,7 +268,7 @@ With what pleas'd hope before the face of Pride,</l>
                <l>While in her balance by <hi>supreme</hi> command</l>
                <l>Hang the dead weights of ministerial sway.</l>
                <l>
-                  <pb n="8" facs="tcp:014525_0006_0F92FC0D9E269120"/>
+                  <pb n="8" facs="unknown:014525_0006_0F92FC0D9E269120"/>
 (For taught by pain, our injur'd bosoms feel</l>
                <l>The potent claims whence all our woes began,</l>
                <l>And own <hi>supreme</hi> the power, that could repeal,</l>
@@ -305,7 +305,7 @@ With what pleas'd hope before the face of Pride,</l>
                <l>Disdain the liv'ry of her marts to wear.</l>
             </lg>
             <lg>
-               <pb n="9" facs="tcp:014525_0007_0F92FD35EB50E9B8"/>
+               <pb n="9" facs="unknown:014525_0007_0F92FD35EB50E9B8"/>
                <l>For shall the lust of fashions and of show,</l>
                <l>The curst idolatry of silks and lace,</l>
                <l>Bid our proud robes insult our Country's woe,</l>
@@ -353,7 +353,7 @@ With what pleas'd hope before the face of Pride,</l>
                <l>The tatter'd garb, that meets th' inclement air,</l>
                <l>The famish'd table, and the matted bed—</l>
                <l>
-                  <pb n="10" facs="tcp:014525_0008_0F92FD3BC1E29310"/>
+                  <pb n="10" facs="unknown:014525_0008_0F92FD3BC1E29310"/>
 These are their fate—In vain the arm of toil</l>
                <l>With gifts autumnal crowns the bearded plain;</l>
                <l>In vain glad Summer prompts the genial soil,</l>
@@ -401,7 +401,7 @@ These are their fate—In vain the arm of toil</l>
                <l>What weak eye trembles at the frowns of pow'r?</l>
                <l>What leaden soul invites the bands of sleep?</l>
                <l>
-                  <pb n="11" facs="tcp:014525_0009_0F92FD4123DCAA00"/>
+                  <pb n="11" facs="unknown:014525_0009_0F92FD4123DCAA00"/>
 How Goodness warms each heaven-illumin'd heart!</l>
                <l>What gen'rous gifts the woes of want assuage,</l>
                <l>And sympathetic tears of pity start,</l>
@@ -450,7 +450,7 @@ How Goodness warms each heaven-illumin'd heart!</l>
                <l>And damps of stygian darkness shroud thy day.—</l>
             </lg>
             <lg>
-               <pb n="12" facs="tcp:014525_0010_0F92FD4178D368B8"/>
+               <pb n="12" facs="unknown:014525_0010_0F92FD4178D368B8"/>
                <l>(Such night as lours o'er Britain's fated land,</l>
                <l>Where rayless shades the darken'd throne surround;</l>
                <l>Nor deeper glooms at Moses' waving wand,</l>
@@ -498,7 +498,7 @@ How Goodness warms each heaven-illumin'd heart!</l>
                <l>The morning dawns, th' effulgent star is nigh,</l>
                <l>And crimson'd glories deck her rising reign!</l>
                <l>
-                  <pb n="13" facs="tcp:014525_0011_0F92FD42E2397D68"/>
+                  <pb n="13" facs="unknown:014525_0011_0F92FD42E2397D68"/>
 Behold afar beneath the cloud of days,</l>
                <l>Where rest the wonders of ascending fame;</l>
                <l>What Heroes rise, immortal heirs of praise!</l>
@@ -546,7 +546,7 @@ Behold afar beneath the cloud of days,</l>
                <l>Or Philadelphia's happier clime surveys</l>
                <l>Her glist'ring spires in Schulkyll's lucid wave.</l>
                <l>
-                  <pb n="14" facs="tcp:014525_0012_0F92FD436F6076B8"/>
+                  <pb n="14" facs="unknown:014525_0012_0F92FD436F6076B8"/>
 Or southward far extend thy wond'ring eyes,</l>
                <l>Where fertile streams the garden'd vales divide;</l>
                <l>And mid the peopled fields distinguish'd rise</l>
@@ -594,7 +594,7 @@ Or southward far extend thy wond'ring eyes,</l>
                <l>Reluctant Freedom wav'd her last adieu,</l>
                <l>And Devastation swept the vassal'd land.</l>
                <l>
-                  <pb n="15" facs="tcp:014525_0013_0F92FD4451E5D150"/>
+                  <pb n="15" facs="unknown:014525_0013_0F92FD4451E5D150"/>
 On her white cliffs, the pillars once of fame,</l>
                <l>Her melancholy Genius sits to wail;</l>
                <l>Drops the fond tear, and o'er her latest shame,</l>
